@@ -21,7 +21,7 @@ function rev() {
 
 function coke() {
     document.getElementById("Weapon").innerHTML = "";
-    document.getElementById("Outcome").innerHTML = "<img src=\"bear.png\"> </img>";
+    document.getElementById("Outcome").innerHTML = "<img src=\"https://raw.githubusercontent.com/killpolarbear/killpolarbear.github.io/main/bear.png\"> </img>";
 }
 
 function wds() {
