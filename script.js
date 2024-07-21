@@ -21,7 +21,7 @@ function rev() {
 
 function coke() {
     document.getElementById("Weapon").innerHTML = "";
-    document.getElementById("Outcome").innerHTML = "<img src=\"Bear.png\"> </img>";
+    document.getElementById("Outcome").innerHTML = "<img src=\"bear.png\"> </img>";
 }
 
 function wds() {
